@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dart-code.flutter",
+    "dart-code.dart-code",
+    "jeroen-meijer.pubspec-assist",
+    "yongzhenlow.dart-built-value-snippets",
+    "humao.rest-client",
+    "tyriar.sort-lines",
+    "spmeesseman.vscode-taskexplorer",
+    "yzane.markdown-pdf",
+    "jebbs.plantuml",
+    "davidanson.vscode-markdownlint"
+  ]
+}
