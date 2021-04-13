@@ -1,3 +1,5 @@
+import 'package:mgt/routes/routes.dart';
+
 class UnauthenticatedRouter {
-  static void configureRoutes() {}
+  static void setup(AppRouter router) {}
 }

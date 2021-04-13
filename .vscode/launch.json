@@ -1,5 +1,18 @@
 {
-	"version": "1.1.0",
-	"configurations": [],
-	"compounds": []
+  "version": "1.1.0",
+  "configurations": [
+    {
+      "name": "[DEBUG] RUN APP",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/main_development.dart",
+      // "program": "lib/main_production.dart",
+      // "program": "lib/main_staging.dart",
+      "args": [
+        "--dart-define=features.something=false",
+        "--verbose",
+      ]
+    }
+  ],
+  "compounds": []
 }
