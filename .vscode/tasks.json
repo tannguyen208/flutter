@@ -1,4 +1,10 @@
 {
 	"version": "2.0.0",
-	"tasks": []
+	"tasks": [
+		{
+			"label": "[DEV] Pub get all",
+			"type": "shell",
+			"command": "sh tools/cli.sh --clean-get",
+		}
+	]
 }
